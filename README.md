@@ -1,0 +1,2 @@
+# penetration_testing_helper
+这是一个简单的渗透测试工具，用于生成有效载荷并启动 Metasploit 监听器。它支持生成不同平台的有效载荷，使得渗透测试变得更加便捷。
