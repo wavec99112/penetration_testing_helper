@@ -16,12 +16,12 @@
 ```bash
 git clone https://github.com/your_username/penetration-testing-helper.git
 ```
-##使用方法
+## 使用方法
 ###在终端中进入项目目录：
 ```
 cd penetration-testing-helper
 ```
-###启动程序
+### 启动程序
 ```
 python wave2k.py
 ```
@@ -31,5 +31,5 @@ python wave2k.py
 程序将自动生成有效载荷并启动 Metasploit 监听器
 将生成的有效载荷发送给目标主机，并等待其连接到监听器
 一旦连接成功，你就可以在 Metasploit 控制台中与目标主机进行交互
-##免责协议
+## 免责协议
 该软件仅用于教育和研究目的，任何未经授权的使用行为均与作者无关。用户需自行承担使用该软件可能造成的后果。
