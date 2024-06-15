@@ -14,7 +14,7 @@
 将代码克隆到本地：
 
 ```bash
-git clone https://github.com/your_username/penetration-testing-helper.git
+git clone https://github.com/wavec99112/penetration_testing_helper
 ```
 ## 使用方法
 ### 在终端中进入项目目录：
